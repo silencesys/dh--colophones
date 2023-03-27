@@ -1,0 +1,19 @@
+{
+  "name": "colophones",
+  "version": "0.0.1",
+  "description": "The project fills in a significant gap in research of medieval textual transmission and manuscript",
+  "main": "index.js",
+  "authors": {
+    "name": "Martin Rocek",
+    "email": ""
+  },
+  "repository": "/colophones",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
